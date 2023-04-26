@@ -3,9 +3,9 @@
         "model": "maneapi.customer",
         "pk": 1,
         "fields": {
-            "name": "Jenna Solis",
             "stylist": 3,
             "style": 2,
+            "name": "Jenna Solis",
             "date_created": "2022-11-08"
         }
     },
